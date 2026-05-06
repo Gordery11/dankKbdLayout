@@ -4,3 +4,6 @@ Made almost entirely using AI, has no settings for now.
 
 Shell - https://github.com/AvengeMedia/DankMaterialShell
 Compositor - https://github.com/niri-wm/niri
+
+# Installation
+Put all three files in (Default) ~/.config/DankMaterialShell/plugins/ folder and reload your DMS-shell.
