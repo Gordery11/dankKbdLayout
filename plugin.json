@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "author": "Gordey Chukhleba",
   "icon": "widgets",
-  "type": "keyboard",
+  "type": "widget",
   "component": "./DankKbdLayoutWidget.qml",
   "settings": "./DankKbdLayoutSettings.qml",
   "permissions": ["settings_read", "settings_write"]
